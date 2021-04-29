@@ -55,3 +55,6 @@ Boston, MA
 * Strong knowledge of network protocols, network analysis tools, and network architecture
 * Excellent business analysis skills, including strong communication abilities
 * Ability to perform basic malware analysis to develop network based indicators and custom protocol decoders
+* Ability to have strong communication skills
+
+
